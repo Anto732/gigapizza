@@ -1,0 +1,33 @@
+#image1 {
+    width: 100%;
+    height: 0%;
+    position: relative;
+}
+
+.class2 {
+    background-color: #EEB41F;
+    margin-right: 10px;
+    position: absolute;
+    bottom: 800px;
+    right: 20px;
+}
+   
+.class3 {
+    display: inline;
+    font-size: 25px;
+    font-weight: 700;
+}   
+
+.class5 {
+    display: inline;
+    position: absolute;
+    bottom: 50%;
+}
+
+.class4 {
+    display: inline-block;
+}
+
+#bouton1 {
+    float: right;
+}
